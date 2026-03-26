@@ -30,8 +30,8 @@ To implement weather prediction using interfaces with two bots — SunBot and Ra
  ```
 /*
 Program to implement a Interface using Java
-Developed by : Pradeepraj P
-Register Number : 212222240073
+Developed by : Naveen S
+Register Number : 212222110030
 */
 ```
 
